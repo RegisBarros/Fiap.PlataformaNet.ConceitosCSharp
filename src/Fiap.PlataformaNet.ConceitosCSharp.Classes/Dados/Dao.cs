@@ -7,7 +7,7 @@ namespace Fiap.PlataformaNet.ConceitosCSharp.Dados.Dados
     {
         //protected string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\fundamentosNet\DBEVENTOS\DBEVENTOS.mdf;Integrated Security=True;Connect Timeout=30";
 
-        protected string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\reginaldo\fundamentosNet\DBEVENTOS\DBEVENTOS.mdf;Integrated Security=True;Connect Timeout=30";
+        protected string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\reginaldo\fundamentosNet\Fiap.PlataformaNet.ConceitosCSharp\database\DBEVENTOS.mdf;Integrated Security=True;Connect Timeout=30";
 
         protected SqlConnection cn;
         protected SqlCommand cmd;
